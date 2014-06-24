@@ -1,0 +1,8 @@
+{
+  "name": "gapit-client",
+  "description": "This component of Meteor GapIt is a smart package that ensures your app can perform hot-reloads without losing access to the PhoneGap API.",
+  "homepage": "https://github.com/chriswessels/meteor-gapit-client",
+  "author": "Chris Wessels",
+  "version": "0.1.0",
+  "git": "https://github.com/chriswessels/meteor-gapit-client.git"
+}
